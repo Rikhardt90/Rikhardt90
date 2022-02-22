@@ -8,6 +8,7 @@
 &nbsp;
 
 <img width="45%"  align="left" alt="Github" src="https://orig00.deviantart.net/333d/f/2018/077/3/3/pixel_grey_knights_by_steeljoe-dc6a9yr.gif" />
+
 **About me:**
 
 - 📘 Studying in a web development bootcamp;
